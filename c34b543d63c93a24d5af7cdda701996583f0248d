@@ -1,0 +1,1 @@
+{"jobID":"c3301b40-0ce0-cd7d-8890-2972b8c9c697","spec":{"type":"policy","cause":{"Message":"","User":"Bahram Parsapour \u003ciceonly04-produkte@yahoo.de\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
