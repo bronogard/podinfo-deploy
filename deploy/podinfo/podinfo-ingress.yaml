@@ -19,4 +19,5 @@ spec:
       paths:
       - path: /podinfo
         backend:
-          serviceName: podinfo          servicePort: 9898
+          serviceName: podinfo
+          servicePort: 9898
